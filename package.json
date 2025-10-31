@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://David111691.github.io/mini-catalog",
+  "homepage": "https://david111691.github.io/mini-catalog/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
